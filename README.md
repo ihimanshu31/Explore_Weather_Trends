@@ -14,4 +14,12 @@ Goals :
 1. Selecting city and country from the database “city_list”.
 2. Extracting the City level data from the database “city_data” and export to CSV file.
 3. Extracting the global temperature from the database “global_data” and export to CSV file.
-Tools Used :
+
+Final OBSERVATIONS :
+1. Global Average Temperature for 10 yr MA varies between 8.5°C to 9.5°C
+2. New Delhi city Average Temperature for 10 yr MA varies between 23.5°C to 26.7°C
+3. The Chart of New Delhi Vs Global has very big difference in the temperatures.
+4. If comparison is made between Global and New Delhi Average Temperatures Bangalore is
+hotter than global average temperature .
+5. The final conclusion of this project is New Delhi is hotter than global temperature
+and temperature is increasing day by day due to changes in the climate
